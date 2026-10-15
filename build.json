@@ -1,0 +1,8 @@
+{
+  "version": "0.1.0+20261015.2101",
+  "builtAt": "2026-10-15T21:27:35+03:00",
+  "loader": "091bffc8ff698420f95a6446cdecc084.loader.js",
+  "framework": "da1ed0345b2daf84ca6f413e387693ea.framework.js.unityweb",
+  "data": "219d16b297df71d2bf5a868a0b7b51df.data.unityweb",
+  "code": "7bf960d62a3eb1530441647e25a75f79.wasm.unityweb"
+}
